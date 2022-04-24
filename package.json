@@ -1,0 +1,19 @@
+{
+  "name": "coupang-clone",
+  "version": "1.0.0",
+  "description": "쿠팡 프론트 앤드 개발하기 (React 사용)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/temy123/Coupang-Clone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/temy123/Coupang-Clone/issues"
+  },
+  "homepage": "https://github.com/temy123/Coupang-Clone#readme"
+}

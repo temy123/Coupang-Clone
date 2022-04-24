@@ -3,6 +3,7 @@ import Ads from "./Ads";
 import BigLogo from "./BigLogo";
 import Category from "./Category";
 import MenuBar from "./MenuBar";
+import RootTop from "./RootTop";
 import SearchBox from "./SearchBox";
 
 export default class Header extends Component {
@@ -13,9 +14,10 @@ export default class Header extends Component {
           src="https://static.coupangcdn.com/ea/cmg_paperboy/image/1646271114206/C0-Left_basic.jpg"
           href="/"
         ></Ads>
+        <RootTop />
         <div className="header">
+          <Category />
           <div className="top">
-            <Category />
             <BigLogo />
             <SearchBox />
             <div>
